@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.count-text {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#count {
+    font-weight: bold;
+}
+
+#error {
+    color: red;
+    margin-top: 10px;
+    display: none;
+}
+
+hr {
+    width: 250px;
+    margin: 10px 0;
+}
+
+button {
+    margin: 10px 10px 0 0;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+#clearBtn {
+    background: transparent;
+    color: white;
+    display: none;
+}
